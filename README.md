@@ -219,9 +219,7 @@ Currently supports:
 4. Add tests if applicable
 5. Submit a pull request
 
-## 📄 License
 
-This project is licensed under the MIT License - see the LICENSE file for details.
 
 ## 👥 Team
 
@@ -231,12 +229,6 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 - **UI/UX Design**: User-friendly interfaces for rural users
 - **DevOps**: Deployment and infrastructure setup
 
-## 📞 Contact
-
-For questions or support, please contact:
-- Email: team@sih25219.com
-- GitHub: [Repository Link]
-- Demo: [Live Demo Link]
 
 ## 🙏 Acknowledgments
 
